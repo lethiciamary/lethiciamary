@@ -1,3 +1,5 @@
-Ola eu sou a Lethicia Maryane
-- Estou estudando no alura
-- utilizo esse espaço para organizar os meus codigos e conhecimentos
+Oii me chamo Lethicia Maryane
+- Sou estudante do alura
+- Utilizo esse espaço para guardar os meus codigos e conhecimentos
+
+![](https://media.tenor.com/wmesCSJCxpcAAAAi/tkthao219-bubududu.gif)
